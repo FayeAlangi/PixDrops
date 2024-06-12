@@ -1,10 +1,6 @@
 # PixDrops
 
-PixDrops is a fullstack social media web application, built using the MERN stack (MongoDB, Express.js, React, Node.js). It allows users to perform CRUD (Create, Read, Update, Delete) operations to add, edit, and delete records information.
-
-The application is containerized using Docker to ensure consistency across different environments and to simplify deployment. Docker allows the application to run in isolated containers, each with its own dependencies and configurations.
-
-Docker Compose is used to manage multi-container Docker applications. It allows you to define and run multi-container applications with ease using a docker-compose.yml file.
+PixDrops is a fullstack social media web application, built using the MERN stack (MongoDB, Express.js, React, Node.js). This README provides an overview of the app's features, setup instructions, usage guidelines, and a video walkthrough of the app.
 
 ## Table of Contents
 
